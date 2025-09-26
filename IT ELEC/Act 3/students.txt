@@ -1,0 +1,2 @@
+John|Doe|24209223|Oright@gmail.com|123|1C|BSIT
+Rik|Dev|24209223|Paksiw@gmail.com|123|1B|BSIT
